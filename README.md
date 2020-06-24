@@ -11,3 +11,4 @@ This repository contains three folders.
     * It also contains test2017.tsv, which is the data we use to test our model and make predictions. There are 12284 tweets, indicated as unknown, as our model will decide whether they are possitive, negative or neutral.
     * Finally, it contains SemEval2017_task4_subtaskA_test_english_gold.txt, which contains the right labels for test2017.tsv. You should not use these labels to train your models. Use them just for verification that your models work fine.
 
+After cleaning up our data, we analyze them and find the most often found words in the entire dataset, the most often words in the positive,the negative and the neutral tweets and we respesent them in 4 Word Clouds.
